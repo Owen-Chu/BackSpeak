@@ -5,7 +5,7 @@
 Formed a rivalry with [Vroom](https://sites.google.com/view/vroombrand/home?authuser=0)
 
 # Stills
-In `Stills/` is most of the images created for Frilk, some have been lost due to time.
+In `Stills/` is most of the images created for Backspeak, some have been lost due to time.
 
 # Videos
-In `Videos/` is most of the videos created for Frilk, some have been lost due to time.
+In `Videos/` is most of the videos created for Backspeak, some have been lost due to time.
